@@ -1,7 +1,7 @@
 ##         Desafios e laboratórios feitos no CS50:📚
 - Aqui será documentado os desafios e os laboratórios feitos na minha jornada em busca de concluir o curso CC50(CS50), oferecido pela fundação estudar.
 
-![Logo](https://members-csforall.imgix.net/members/logos/cs50-black.PNG)
+![Logo](https://media.licdn.com/dms/image/D5612AQH8np4qqwd2YA/article-cover_image-shrink_600_2000/0/1693981266937?e=2147483647&v=beta&t=BVCzbhncy-efGRpx0FUtxfhvgMPpdJLtvuQg3DnMtuo)
 
 
 ## ALUNO:👨🏽‍🎓
